@@ -49,8 +49,6 @@ System umożliwia:
 
 ## Zastosowane mechanizmy
 
-Projekt pokazuje praktyczne użycie elementów omawianych na zajęciach.
-
 ### Programowanie obiektowe (OOP)
 - klasy i obiekty
 - hermetyzacja (`_store`, `_users`)
@@ -64,8 +62,6 @@ Wykorzystane do modelowania danych:
 - `Location`
 - `WarehouseDocument`
 - `DocumentLine`
-
-brak boilerplate’u (`__init__`, `__repr__`)
 
 ---
 
