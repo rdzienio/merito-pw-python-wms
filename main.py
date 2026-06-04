@@ -1,5 +1,5 @@
 def main():
-    print("Hello from python-wms!")
+    print("Tu bedzie WMS!")
 
 
 if __name__ == "__main__":
