@@ -1,4 +1,4 @@
-# 🏭 WMS (Warehouse Management System) — aplikacja konsolowa w Pythonie
+# WMS (Warehouse Management System) — aplikacja konsolowa w Pythonie
 
 Autor: Robert Dzienio  
 
